@@ -1,5 +1,5 @@
-module github.com/killlowkey/parse-curl
-
+module github.com/liushuai05/parse-curl
+ 
 go 1.16
 
 require (
